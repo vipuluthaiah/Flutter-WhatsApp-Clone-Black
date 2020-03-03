@@ -1,6 +1,6 @@
 # black custom whatsapp 
 
-A new Flutter project.
+ScreenShots.
 
 ## Getting Started
 <img src="https://github.com/vipuluthaiah/Flutter-WhatsApp-Clone-Black/blob/master/screenshot/Screenshot_1583247680.png" width="40%">
