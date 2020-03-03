@@ -3,7 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
-![Chat Tab](https://github.com/vipuluthaiah/Flutter-WhatsApp-Clone-Black/blob/master/screenshot/Screenshot_1583247680.png =250x250)
+![](https://github.com/vipuluthaiah/Flutter-WhatsApp-Clone-Black/blob/master/screenshot/Screenshot_1583247680.png =250x250)
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
