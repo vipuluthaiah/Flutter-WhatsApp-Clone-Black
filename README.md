@@ -3,7 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
-
+<img src="https://github.com/vipuluthaiah/Flutter-WhatsApp-Clone-Black/blob/master/screenshot/Screenshot_1583247680.png" width="40%">
 
 <img align="right" src="https://github.com/vipuluthaiah/Flutter-WhatsApp-Clone-Black/blob/master/screenshot/Screenshot_1583247707.png" width=96>
 This project is a starting point f![test image size](/img/post-bg-2015.jpg){:class="img-responsive"}or a Flutter application.
