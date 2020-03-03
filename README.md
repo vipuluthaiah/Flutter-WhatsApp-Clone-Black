@@ -3,8 +3,8 @@
 A new Flutter project.
 
 ## Getting Started
-![An image](https://github.com/vipuluthaiah/Flutter-WhatsApp-Clone-Black/blob/master/screenshot/Screenshot_1583247680.png) <!-- .element height="50%" width="50%" -->
-This project is a starting point for a Flutter application.
+![test image size](https://github.com/vipuluthaiah/Flutter-WhatsApp-Clone-Black/blob/master/screenshot/Screenshot_1583247680.png){:class="img-responsive"}
+This project is a starting point f![test image size](/img/post-bg-2015.jpg){:class="img-responsive"}or a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
